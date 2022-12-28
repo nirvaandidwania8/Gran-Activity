@@ -21,4 +21,4 @@ SDG 3 - Good health and well-being
 
 5. Solutions Brainstorming
 
-After researching for similar products and solutions we were unable to find any device that addressed the problem like our project proposed to and most of the existing similar ideas were in the forms of apps, which neglects one of our primary concerns, limiting screen time usage. Some apps that had a similar idea of keeping elderly people more active include, ‘Map My Walk’, ‘Yoga Studio’ and ‘MedWatcher’. 
+After researching for similar products and solutions we were unable to find any device that addressed the problem like our project proposed to and most of the existing similar ideas were in the forms of apps, which neglects one of our primary concerns, limiting screen time usage. Some apps that had a similar idea of keeping elderly people more active include, ‘Map My Walk’, ‘Yoga Studio’ and ‘MedWatcher’. We were able to brainstorm an idea of a machine which promotes healthy competiton, motivates elderly people to do physical activity and also reduces screen time usage.
