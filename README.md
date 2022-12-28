@@ -39,3 +39,12 @@ Materials:
 3) ESP8266
 4) Buttons
 5) Bread Board
+6) Solder
+7) Laser Cutter
+8) Glue gun
+9) Jumper cables 
+10) Drill machines
+
+7. Skils used
+
+Throughout the process of making our project we used various skills. We used laser cutter to cut out the wooden parts of device designed on CAD. Later, we used our IoT skills to create a client server model.
