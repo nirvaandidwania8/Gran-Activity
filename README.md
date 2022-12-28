@@ -47,4 +47,5 @@ Materials:
 
 7. Skils used
 
-Throughout the process of making our project we used various skills. We used laser cutter to cut out the wooden parts of device designed on CAD. Later, we used our IoT skills to create a client server model.
+Throughout the process of making our project we used various skills. We used laser cutter to cut out the wooden parts of device designed on CAD. Later, we used our IoT skills to create a client server model with two clients and one server. 
+The codes are available in the Source file
