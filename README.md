@@ -42,10 +42,10 @@ Materials:
 6) Solder
 7) Laser Cutter
 8) Glue gun
-9) Jumper cables 
+9) Male to male jumper wires
 10) Drill machines
 
 7. Skils used
 
-Throughout the process of making our project we used various skills. We used laser cutter to cut out the wooden parts of device designed on CAD. Later, we used our IoT skills to create a client server model with two clients and one server. 
+Throughout the process of making our project we used various skills. We got a headstart on how to solder, 3D print and laser cut. We used laser cutter to cut out the wooden parts of device designed on CAD. Later, we used our IoT skills to create a client server model with two clients and one server and then send and receive data. 
 The codes are available in the Source file.
