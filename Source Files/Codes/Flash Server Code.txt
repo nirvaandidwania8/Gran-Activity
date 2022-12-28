@@ -1,0 +1,23 @@
+def update_status(name):
+    #people[name] = True
+    if people[name]:
+        people[name] = False
+    else:
+        people[name] = True
+
+from flask import Flask
+app = Flask(__name__)
+
+people = dict(person1 = False, person2 = False, person3 = False, person4 = False)
+
+@app.route('/finished/<name>')
+def finished(name):
+    update_status(name)
+    return "Done"
+
+@app.route('/status')
+def status():
+    return people
+
+if __name__ == '__main__':
+    app.run(debug=True, port=80, host='0.0.0.0')
